@@ -1,0 +1,15 @@
+/Users/farvillage/ProvaTecnica01/bin/Debug/net8.0/ProvaTecnica01
+/Users/farvillage/ProvaTecnica01/bin/Debug/net8.0/ProvaTecnica01.deps.json
+/Users/farvillage/ProvaTecnica01/bin/Debug/net8.0/ProvaTecnica01.runtimeconfig.json
+/Users/farvillage/ProvaTecnica01/bin/Debug/net8.0/ProvaTecnica01.dll
+/Users/farvillage/ProvaTecnica01/bin/Debug/net8.0/ProvaTecnica01.pdb
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.AssemblyInfoInputs.cache
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.AssemblyInfo.cs
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.csproj.CoreCompileInputs.cache
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.sourcelink.json
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.dll
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/refint/ProvaTecnica01.dll
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.pdb
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ProvaTecnica01.genruntimeconfig.cache
+/Users/farvillage/ProvaTecnica01/obj/Debug/net8.0/ref/ProvaTecnica01.dll

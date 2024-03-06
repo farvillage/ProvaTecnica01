@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProvaTecnica01/1.0.0": {
+        "runtime": {
+          "ProvaTecnica01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvaTecnica01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
